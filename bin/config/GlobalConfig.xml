@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalConfig>
+	<ScreenShortHide value="1" />
+	<FreamSpeed value="10" />
+	<ScreenShortGifCreate value="test.gif" />
+	<OtherFileGifCreate value="CreateGif.gif" />
+</GlobalConfig>
